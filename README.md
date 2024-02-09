@@ -1,6 +1,6 @@
 # Hotel-Management-System
 Welcome to our Hotel Management System project! This Java-based application is designed to assist hotel staff in efficiently managing rooms and reservations. It offers a user-friendly interface built with Java Swing, featuring functionalities like login, signup, forgot password page, room management, reservation handling, customer checkout, and billing details.
-#Usage
+# Usage
 -Login:
   Use your credentials to log in as an admin or a customer.
 -Admin Dashboard:
